@@ -1,9 +1,5 @@
 # rollABall
 
-# 🎮 Roll-a-Ball
-
-A simple yet fun Unity game where you roll a ball around a platform to collect objects. Built with C# and Unity, this project is perfect for learning physics, input handling, and component-based design.
-
 ## 🌀 Game Overview
 
 Roll-a-Ball is a beginner-friendly 3D game where the player controls a sphere using keyboard inputs. The objective? Collect all the floating pickups scattered across the map as quickly as possible!
