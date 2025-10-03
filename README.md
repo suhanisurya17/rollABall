@@ -26,4 +26,4 @@ Roll-a-Ball is a beginner-friendly 3D game where the player controls a sphere us
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/roll-a-ball.git
+   git clone https://github.com/suhanisurya17/rollABall.git
